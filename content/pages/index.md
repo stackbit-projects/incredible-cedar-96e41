@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Ingin Tidur Anda Berkualitas ?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      anda ingin tidurnya berkualitas? gunakan spring bed SPEQ dengan kualias
+      terjamin bergaransi 15 tahun dan bisa di cicil dengan 10x cicilan dan
+      bunga 0%.
     actions:
       - label: Learn More
         url: /features
