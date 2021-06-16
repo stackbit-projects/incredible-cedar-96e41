@@ -13,7 +13,7 @@ sections:
         style: primary
       - label: Contact Us
         url: 'https://wa.me/89655861413'
-        style: secondary
+        style: link
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
