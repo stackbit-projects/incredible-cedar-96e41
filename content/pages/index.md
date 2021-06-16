@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Ingin Tidur Anda Nyaman dan Sehat ?
     subtitle: >-
-      anda ingin tidurnya berkualitas? gunakan spring bed SPEQ dengan kualias
-      terjamin bergaransi 15 tahun dan bisa di cicil dengan 10x cicilan dan
-      bunga 0%.
+      Bagi Anda yang ingin tidurnya berkualitas? gunakan spring bed SPEQ dengan
+      kualias terjamin bergaransi 15 tahun dan bisa di cicil dengan 10x cicilan
+      dan bunga 0%.
     actions:
       - label: Learn More
         url: /features
