@@ -28,7 +28,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Bahan yang Empuk
+      - title: Bahan Latex
         content: >
           Kasur latex terbaik kualitas premium yang mendukung kenyamanan tidur
           anda. Kasur latex Mimpi memiliki keunggulan ergonomis, Anti tungau,
