@@ -17,7 +17,7 @@ sections:
     align: left
     image: /images/image_2021-06-16_104939.png
     image_alt: Hero placeholder image
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: blue
