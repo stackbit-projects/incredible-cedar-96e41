@@ -8,7 +8,7 @@ sections:
       kualias terjamin bergaransi 15 tahun dan bisa di cicil dengan 10x cicilan
       dan bunga 0%.
     actions:
-      - label: Learn More
+      - label: Feature
         url: /features
         style: primary
       - label: Hubungi kami
