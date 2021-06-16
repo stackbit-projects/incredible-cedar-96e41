@@ -12,7 +12,7 @@ sections:
         url: /features
         style: primary
       - label: Contact Us
-        url: /contact
+        url: 'https://wa.me/89655861413'
         style: secondary
     align: left
     image: images/hero.svg
