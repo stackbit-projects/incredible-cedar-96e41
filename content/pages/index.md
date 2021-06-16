@@ -15,7 +15,7 @@ sections:
         url: 'https://wa.me/89655861413'
         style: secondary
     align: left
-    image: images/hero.svg
+    image: /images/image_2021-06-16_104939.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
