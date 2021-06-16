@@ -11,7 +11,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Hubungi kami
         url: 'https://wa.me/89655861413'
         style: secondary
     align: left
