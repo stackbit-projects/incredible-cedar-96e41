@@ -29,10 +29,14 @@ sections:
     title: Features
     features:
       - title: Bahan yang Empuk
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Kasur latex terbaik kualitas premium yang mendukung kenyamanan tidur
+          anda. Kasur latex Mimpi memiliki keunggulan ergonomis, Anti tungau,
+          debu, dan bakteri. Mimpi merupakan merk kasur latex yang bagus dan
+          cocok bagi penderita alergi yang mencari kasur latex yang nyaman dan
+          sehat. Kasur latex Mimpi menggunakan material alami yang memiliki pH
+          rendah dan lebih asam dari jamur sehingga organisme bakteri tidak akan
+          berkembang di area kasur Anda.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
